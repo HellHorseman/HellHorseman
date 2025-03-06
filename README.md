@@ -1,4 +1,4 @@
-HI! I'm Eduard! 🖖🤘🤟
+Hi! I'm Eduard! 🖖🤘🤟
 
 I create a products which contains many technologies.</br>
 My dream it's gameDev.</br>
