@@ -1,8 +1,8 @@
 HI! I'm Eduard! 🖖🤘🤟
 
-I create a products which contains many technologies.
-My dream it's gameDev.
-You can mail me duke.sheffer@yandex.ru
+I create a products which contains many technologies.</br>
+My dream it's gameDev.</br>
+You can mail me duke.sheffer@yandex.ru</br>
 
 My stack:</br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
